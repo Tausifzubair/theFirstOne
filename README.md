@@ -1,4 +1,4 @@
 # theFirstOne
 This is my first Git Repository.
 <br>
-Author-Tausif Zubair(studet)
+Author-Tausif Zubair(student of gec aurangabad)
